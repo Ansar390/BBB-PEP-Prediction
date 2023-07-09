@@ -6,3 +6,5 @@ To use this project adopt the following steps
 3) Upload Feature Vectors on Colab for respective .py files.
 4) Run all the code after doing step 3.
 5) The saved models are attached as well for independent set testing. 
+
+**This project operates under a common creative license for all the files except the Sequences file**
