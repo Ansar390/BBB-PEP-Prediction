@@ -26,6 +26,8 @@ from lightgbm import LGBMClassifier
 # from catboost import CatBoostClassifier
 import numpy as np
 
+
+print("")
 train=pd.read_csv('/content/train_data77up.csv')
 test=pd.read_csv('/content/test_data23up.csv')
 df = pd.concat([train,test], axis=0)
